@@ -1,9 +1,9 @@
 return {
-  { "dasupradyumna/midnight.nvim" },
+  -- { "dasupradyumna/midnight.nvim" },
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "midnight",
+      -- colorscheme = "midnight",
     },
   },
 }
