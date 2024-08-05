@@ -1,5 +1,5 @@
 return {
-  -- { "dasupradyumna/midnight.nvim" },
+  { "dasupradyumna/onedark.nvim" },
   {
     "LazyVim/LazyVim",
     opts = {

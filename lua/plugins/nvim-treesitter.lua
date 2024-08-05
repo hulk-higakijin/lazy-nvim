@@ -1,4 +1,4 @@
-return  {
+return {
   "nvim-treesitter/nvim-treesitter",
   opts = {
     ensure_installed = {
@@ -16,7 +16,8 @@ return  {
       "typescript",
       "vim",
       "yaml",
-      'dart'
+      "dart",
+      "ruby",
     },
   },
 }
