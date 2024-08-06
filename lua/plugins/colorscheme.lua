@@ -1,9 +1,10 @@
 return {
-  { "dasupradyumna/onedark.nvim" },
+  { "rebelot/kanagawa.nvim" },
   {
     "LazyVim/LazyVim",
     opts = {
       -- colorscheme = "midnight",
+      colorscheme = "kanagawa",
     },
   },
 }
